@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect x="5" y="5" width="54" height="54" rx="10" fill="#073a63" stroke="#064f3a" stroke-width="10" />
+  <text x="11" y="43" fill="#ffffff" font-family="Georgia, 'Times New Roman', serif" font-size="39" font-weight="700">C</text>
+  <text x="34" y="47" fill="#ffffff" font-family="Georgia, 'Times New Roman', serif" font-size="32" font-style="italic" font-weight="700" transform="rotate(-13 42 40)">b</text>
+</svg>

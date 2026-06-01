@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300" role="img" aria-labelledby="title">
+  <title id="title">CitiBrokers Real Estate</title>
+  <defs>
+    <linearGradient id="navyRoof" x1="74" y1="56" x2="816" y2="152" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#061f3d" />
+      <stop offset=".58" stop-color="#0b3562" />
+      <stop offset="1" stop-color="#071f3c" />
+    </linearGradient>
+    <linearGradient id="greenAccent" x1="28" y1="35" x2="870" y2="265" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0a6734" />
+      <stop offset="1" stop-color="#15914a" />
+    </linearGradient>
+  </defs>
+  <path d="M32 120V36h302l24-12 24 12h486v84" fill="none" stroke="url(#greenAccent)" stroke-width="12" stroke-linejoin="round" />
+  <path d="M62 122 357 34l249 88 131-55 101 55H62Z" fill="url(#navyRoof)" />
+  <path d="M116 117 357 55l246 86 131-54 58 30" fill="none" stroke="#031529" stroke-width="10" opacity=".38" />
+  <path d="M164 102V62h44v28" fill="#061f3d" stroke="#dff6ee" stroke-width="7" />
+  <circle cx="385" cy="79" r="25" fill="#dff6ee" />
+  <path d="M385 55v48M361 79h48" stroke="#061f3d" stroke-width="7" />
+  <text x="48" y="197" fill="#ffffff" font-family="Georgia, 'Times New Roman', serif" font-size="64" font-weight="700" letter-spacing="-1.4">CitiBrokers Real Estate</text>
+  <path d="M48 226h804" stroke="url(#greenAccent)" stroke-width="12" />
+  <path d="M32 144v114h836V144" fill="none" stroke="#dff6ee" stroke-width="10" opacity=".9" />
+</svg>
